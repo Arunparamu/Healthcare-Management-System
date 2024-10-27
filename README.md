@@ -5,22 +5,22 @@ E-HealthCare-Management-System is a console based application which is built usi
 
 Languages and Technology Used
 
-Java
-MySql
-Jdbc
+*Java
+*MySql
+*Jdbc
 
 Requirements
 
-Java [JDK 17]
-Netbeans
-MySql
-Jdbc Driver
-MySql Connector
+*Java [JDK 17]
+*Netbeans
+*MySql
+*Jdbc Driver
+*MySql Connector
 
 Features
 
-Admin’s DashBoard
-Patient’s DashBoard
-Doctor’s DashBoard
+8Admin’s DashBoard
+*Patient’s DashBoard
+*Doctor’s DashBoard
 
 
